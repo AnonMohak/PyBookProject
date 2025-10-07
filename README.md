@@ -84,7 +84,5 @@ The importer is forgiving and will also accept legacy list entries like `[name, 
 - You can resize the window; the list and text area expand accordingly.
 - If you ever need a fresh start, close the app and delete `contacts.json` (this permanently removes saved contacts).
 
-### License
-MIT
 
 
