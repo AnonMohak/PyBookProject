@@ -1,5 +1,3 @@
-"""PyBook: A better and simpler contact book with persistence and validation."""
-
 import json
 import re
 import tkinter as tk
@@ -10,7 +8,6 @@ from pathlib import Path
 
 
 class ContactBookApp:
-	"""Contact book with simple JSON persistence and a clean ttk UI."""
 
 	DATA_FILE = Path("contacts.json")
 
